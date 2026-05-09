@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="14dp"
+    android:layout_marginBottom="10dp"
+    android:background="@android:drawable/dialog_holo_light_frame">
+
+    <TextView
+        android:id="@+id/tvBusNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bus Number"
+        android:textStyle="bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvRouteName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Route" />
+
+    <TextView
+        android:id="@+id/tvStartLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Location" />
+
+    <TextView
+        android:id="@+id/tvEndLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="End Location" />
+
+    <TextView
+        android:id="@+id/tvDriverName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Driver Name"
+        android:layout_marginBottom="10dp" />
+
+    <Button
+        android:id="@+id/btnSelectBus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Bus" />
+
+</LinearLayout>

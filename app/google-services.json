@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "354864122029",
+    "firebase_url": "https://collage-bus-tracker-45875-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "collage-bus-tracker-45875",
+    "storage_bucket": "collage-bus-tracker-45875.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354864122029:android:4e2c3471105771b6115e24",
+        "android_client_info": {
+          "package_name": "com.college.bustracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sCLpcpy06zIb_hXEfsCXb0DVuZ4JvG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354864122029:android:480916bd6b990007115e24",
+        "android_client_info": {
+          "package_name": "com.college.bustrackerstudent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sCLpcpy06zIb_hXEfsCXb0DVuZ4JvG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
