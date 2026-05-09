@@ -48,16 +48,6 @@ An Android application developed for students to track college buses in real tim
 
 ---
 
-##  Screenshots
-
-Add screenshots here.
-
-Example:
-
-![Home](screenshots/home.png)
-
----
-
 ##  Installation
 
 1. Clone Repository
